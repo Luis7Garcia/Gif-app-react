@@ -5,7 +5,7 @@ import { AddCategory, GifGrid } from "./components";
 
 export const GifAplication = () => {
 
-    const [categories, setCategories] = useState([ 'One punch' ]);
+    const [categories, setCategories] = useState([ 'Mario bross' ]);
 
     const onAddCategory = (newCategory) =>{
 
